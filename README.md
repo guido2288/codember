@@ -12,6 +12,6 @@ Resolución de retos y pistas de los secretos que encontré del juego [codember]
 
 ## Lista de retos
 
-- [Challenge 1] 
+- [Challenge 1] (./Challange01/script.js)
 
 
