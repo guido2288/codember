@@ -12,7 +12,11 @@ Resolución de retos y pistas de los secretos que encontré del juego [codember]
 
 ## Lista de retos
 
+<<<<<<< HEAD
 - [Challenge 1] (./Challange01/script.js)
 - [Challenge 2] (./Challange02/script.js)
+=======
+- [Challenge 1](Challange01/script.js)
+>>>>>>> 9d5b2ccbc10631793551eda5545271586a2af8b3
 
 
